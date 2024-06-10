@@ -1,25 +1,24 @@
-# swap-anything
+# ViCor
 
-[Jing Gu](https://g-jing.github.io/), [Yilin Wang](https://yilinwang.org/), [Nanxuan Zhao](http://nxzhao.com/), [Wei Xiong](https://wxiong.me/), [Qing Liu](https://qliu24.github.io/), [Zhifei Zhang](https://zzutk.github.io/), [He Zhang](https://sites.google.com/site/hezhangsprinter/), [Jianming Zhang](https://cs-people.bu.edu/jmzhang/), [HyunJoon Jung](https://polaris79.wixsite.com/hjung), [Xin Eric Wang](https://eric-xw.github.io/)
+[Kaiwen Zhou](https://kevinz-01.github.io/), [Kwonjoon Lee](https://scholar.google.com/citations?hl=en&user=C6Wu8M0AAAAJ&view_op=list_works), [Teruhisa Misu](https://scholar.google.com/citations?user=4LAT5WYAAAAJ&hl=en), [Xin Eric Wang](https://eric-xw.github.io/)
 
-[[Project Page](https://swap-anything.github.io/)] [[Paper](https://arxiv.org/abs/2404.05717)]
+[[Project Page](https://kevinz-01.github.io/vicor/)] [[Paper](https://arxiv.org/abs/2310.05872)]
 ![Teaser figure](figures/teaser.png)
 
 ## Model Architecture
 ![Teaser figure](figures/pipeline.png)
 
-
+## Code Release
+Coming soon
 
 ## Citation
 
 
 ```
-@misc{gu2024swapanything,
-      title={SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual Editing}, 
-      author={Jing Gu and Yilin Wang and Nanxuan Zhao and Wei Xiong and Qing Liu and Zhifei Zhang and He Zhang and Jianming Zhang and HyunJoon Jung and Xin Eric Wang},
-      year={2024},
-      eprint={2404.05717},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{zhou2023vicor,
+  title={Vicor: Bridging visual understanding and commonsense reasoning with large language models},
+  author={Zhou, Kaiwen and Lee, Kwonjoon and Misu, Teruhisa and Wang, Xin Eric},
+  journal={arXiv preprint arXiv:2310.05872},
+  year={2023}
 }
 ```
